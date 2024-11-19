@@ -1,0 +1,32 @@
+body {  
+    font-family: 'consolas'; 
+    margin: 20px;  
+    padding: 20px;  
+    background-color: #f4f4f4;  
+    text-align: center;
+}  
+
+h1 {  
+    color: #080808;  
+}  
+form {  
+    margin-bottom: 20px;  
+}  
+
+input[type="date"] {  
+    margin-right: 10px;  
+}  
+
+button {  
+    background-color: #42a342;  
+    color: black;  
+    border: none;  
+    padding: 10px;  
+    cursor: pointer;  
+    align-items: center;
+}  
+
+button:hover {  
+    background-color: #0056b3;  
+    color: #f4f4f4;
+}  
